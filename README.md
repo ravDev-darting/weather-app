@@ -27,9 +27,9 @@ The app shows live location-based weather, forecasts, and alerts with a clean an
 
 ## 📸 Screenshots
 
-| Home Screen                             | Forecast                                   | Radar                                |
-| --------------------------------------- | ------------------------------------------ | ------------------------------------ |
-| ![home](docs/screenshots/dashboard.jpg) | ![forecast](docs/screenshots/forecast.jpg) | ![radar](docs/screenshots/radar.jpg) |
+| Home Screen                                    | Forecast                                   | Radar                                |
+| ---------------------------------------------- | ------------------------------------------ | ------------------------------------ |
+| ![Home Screen](docs/screenshots/dashboard.jpg) | ![forecast](docs/screenshots/forecast.jpg) | ![radar](docs/screenshots/radar.jpg) |
 
 | Setting Screen                           | Unit Customization                                   | Toggle Theme                                 |
 | ---------------------------------------- | ---------------------------------------------------- | -------------------------------------------- |
