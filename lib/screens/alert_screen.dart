@@ -583,7 +583,8 @@ class _AlertsAndSuggestionsPageState extends State<AlertsAndSuggestionsPage> {
         textColor = Colors.white;
         break;
       default: // System
-        bgColor = Colors.indigo;
+        bgColor = const Color.fromARGB(171, 18, 30, 96);
+        {}
         textColor = Colors.white;
     }
     final borderColor = textColor;
