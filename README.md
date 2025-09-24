@@ -108,3 +108,22 @@ A modern, elegant weather application built with **Flutter**, featuring real-tim
 ### 🌤 Setting Screen (system theme)
 
 <img src="screenshots/weather/setting-screen.png" width="300"/>
+
+## 📦 Installation
+
+### Option 1: Install from GitHub Releases
+
+1. Go to the **[Releases Section](https://github.com/ravDev-darting/weather-app/releases/download/v1.0.0/app-release.apk)**.
+2. Download the latest file:
+   - For Android devices → `app-release.apk`
+   - For Play Store upload → `app-release.aab`
+3. Install on your device.
+   > ⚠️ You may see a warning like _"This file may be harmful"_ — this happens because the app is not from Google Play. You can safely proceed if you trust the source.
+
+### Option 2: Build from Source
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/ravDev-darting/weather-app.git
+   cd weather-app
+   ```
