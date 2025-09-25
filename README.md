@@ -113,7 +113,7 @@ A modern, elegant weather application built with **Flutter**, featuring real-tim
 
 ### Option 1: Install from GitHub Releases
 
-1. Go to the **[Releases Section](https://github.com/ravDev-darting/weather-app/releases/download/v1.0.0/app-release.apk)**.
+1. Go to the **[Releases Section](https://github.com/ravDev-darting/weather-app/releases/tag/v1.0.0)**.
 2. Download the latest file:
    - For Android devices → `app-release.apk`
    - For Play Store upload → `app-release.aab`
