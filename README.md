@@ -4,6 +4,13 @@ A modern, elegant weather application built with **Flutter**, featuring real-tim
 
 ---
 
+## 🛠 Tech Stack
+
+- Flutter & Dart
+- REST APIs for weather data
+- Provider for state management
+- Glassmorphism UI with animations
+
 ## 🚀 Features
 
 ### 🌤 1. Home Screen
