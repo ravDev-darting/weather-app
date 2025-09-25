@@ -130,7 +130,20 @@ A modern, elegant weather application built with **Flutter**, featuring real-tim
 ### Option 2: Build from Source
 
 1. Clone this repo:
-   ```bash
-   git clone https://github.com/ravDev-darting/weather-app.git
-   cd weather-app
-   ```
+
+```bash
+  git clone https://github.com/ravDev-darting/weather-app
+
+# Go to project folder
+
+cd weather-app
+
+# Install dependencies
+
+flutter pub get
+
+# Run on device
+
+flutter run
+
+```
